@@ -13,9 +13,8 @@ This project focuses on analyzing data using Python to uncover meaningful insigh
 
 ## 📁 Project Structure
 
-* `dataset.csv` → Raw dataset used for analysis
-* `analysis.ipynb` → Jupyter Notebook with full analysis
-* `README.md` → Project documentation
+→ Jupyter Notebook with full analysis
+→ Project documentation
 
 ## 📈 Key Insights
 
